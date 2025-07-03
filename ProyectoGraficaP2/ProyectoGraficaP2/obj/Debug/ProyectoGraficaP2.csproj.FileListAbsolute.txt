@@ -1,0 +1,21 @@
+C:\Users\erick\OneDrive\Desktop\ProyectoComputacionGrafica\Computacion_Gr-fica\ProyectoGraficaP2\ProyectoGraficaP2\bin\Debug\ProyectoGraficaP2.exe.config
+C:\Users\erick\OneDrive\Desktop\ProyectoComputacionGrafica\Computacion_Gr-fica\ProyectoGraficaP2\ProyectoGraficaP2\bin\Debug\ProyectoGraficaP2.exe
+C:\Users\erick\OneDrive\Desktop\ProyectoComputacionGrafica\Computacion_Gr-fica\ProyectoGraficaP2\ProyectoGraficaP2\bin\Debug\ProyectoGraficaP2.pdb
+C:\Users\erick\OneDrive\Desktop\ProyectoComputacionGrafica\Computacion_Gr-fica\ProyectoGraficaP2\ProyectoGraficaP2\obj\Debug\ProyectoGraficaP2.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Desktop\ProyectoComputacionGrafica\Computacion_Gr-fica\ProyectoGraficaP2\ProyectoGraficaP2\obj\Debug\ProyectoGraficaP2.Form1.resources
+C:\Users\erick\OneDrive\Desktop\ProyectoComputacionGrafica\Computacion_Gr-fica\ProyectoGraficaP2\ProyectoGraficaP2\obj\Debug\ProyectoGraficaP2.Properties.Resources.resources
+C:\Users\erick\OneDrive\Desktop\ProyectoComputacionGrafica\Computacion_Gr-fica\ProyectoGraficaP2\ProyectoGraficaP2\obj\Debug\ProyectoGraficaP2.csproj.GenerateResource.cache
+C:\Users\erick\OneDrive\Desktop\ProyectoComputacionGrafica\Computacion_Gr-fica\ProyectoGraficaP2\ProyectoGraficaP2\obj\Debug\ProyectoGraficaP2.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Desktop\ProyectoComputacionGrafica\Computacion_Gr-fica\ProyectoGraficaP2\ProyectoGraficaP2\obj\Debug\ProyectoGraficaP2.exe
+C:\Users\erick\OneDrive\Desktop\ProyectoComputacionGrafica\Computacion_Gr-fica\ProyectoGraficaP2\ProyectoGraficaP2\obj\Debug\ProyectoGraficaP2.pdb
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectoGraficaP2\ProyectoGraficaP2\bin\Debug\ProyectoGraficaP2.exe.config
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectoGraficaP2\ProyectoGraficaP2\bin\Debug\ProyectoGraficaP2.exe
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectoGraficaP2\ProyectoGraficaP2\bin\Debug\ProyectoGraficaP2.pdb
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectoGraficaP2\ProyectoGraficaP2\obj\Debug\ProyectoGraficaP2.csproj.AssemblyReference.cache
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectoGraficaP2\ProyectoGraficaP2\obj\Debug\ProyectoGraficaP2.exe.config
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectoGraficaP2\ProyectoGraficaP2\obj\Debug\ProyectoGraficaP2.Form1.resources
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectoGraficaP2\ProyectoGraficaP2\obj\Debug\ProyectoGraficaP2.Properties.Resources.resources
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectoGraficaP2\ProyectoGraficaP2\obj\Debug\ProyectoGraficaP2.csproj.GenerateResource.cache
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectoGraficaP2\ProyectoGraficaP2\obj\Debug\ProyectoGraficaP2.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectoGraficaP2\ProyectoGraficaP2\obj\Debug\ProyectoGraficaP2.exe
+C:\Users\Ariel\OneDrive\Email attachments\Escritorio\Computación Grafica\ProyectoGraficaP2\ProyectoGraficaP2\obj\Debug\ProyectoGraficaP2.pdb
